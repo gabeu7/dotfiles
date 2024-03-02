@@ -1,6 +1,6 @@
 #!/bin/sh
 
-xrand --dpi 96
+xrand --dpi 125
 
 #xrdb ${XDG_CONFIG_HOME:-$HOME/.config}/x11/xresources & xrdbpid=$!     # Uncomment to use Xresources colors/settings on startup
 

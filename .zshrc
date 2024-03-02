@@ -37,3 +37,4 @@ TERM="st-256color"
 SHELL=/bin/zsh
 
 export PATH=".local/bin:$PATH"
+export PATH="/usr/sbin:$PATH"
